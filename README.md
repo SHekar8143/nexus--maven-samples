@@ -17,3 +17,4 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 12. Run mvn clean deploy -P release, it will deploy it to release repo
 13. test
 14. iwant to test this commit line
+15. i would like to add more 
